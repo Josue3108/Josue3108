@@ -1,10 +1,9 @@
 <table>
   <tr>
-    <td width="40%">
-      <img src="200.gif" width="200" alt="Developer at work">
+    <td>
+      <img src="200.gif" width="150" alt="Developer at work">
     </td>
     <td>
-      <h2>About Me</h2>
       👋 Hello! I'm <b>Josue Granados</b>, a computer science student with a strong interest in 
       <b>software development</b>, <b>systems programming</b>, and <b>data-driven solutions</b>.<br><br>
       I’m passionate about understanding how software works at a deeper level and applying that knowledge 
@@ -16,6 +15,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
