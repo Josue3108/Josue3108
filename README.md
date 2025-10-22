@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 Hello! I'm **Josue Granados**, a computer science student with a strong interest in **software development**, **systems programming**, and **data-driven solutions**.  <br><br>I’m passionate about understanding how software works at a deeper level and applying that knowledge to build efficient and reliable applications. My projects range from **C-based system implementations** to **Python tools** for automation and data management.  <br><br>I’m currently focused on expanding my skills in **Data structures**, and **system design**, while continuously learning new technologies to strengthen my foundation as a developer.  <br><br>I’m always open to collaborating on interesting projects and contributing to meaningful software initiatives.<br>
+# <p align="center">
+  <img src="200.gif" width="400" alt="Developer at work">
+</p>
+
+## About Me
+👋 Hello! I'm **Josue Granados**, a computer science student with a strong interest in **software development**, **systems programming**, and **data-driven solutions**.  <br><br>
+I’m passionate about understanding how software works at a deeper level and applying that knowledge to build efficient and reliable applications. My projects range from **C-based system implementations** to **Python tools** for automation and data management.  <br><br>
+I’m currently focused on expanding my skills in **data structures** and **system design**, while continuously learning new technologies to strengthen my foundation as a developer.  <br><br>
+I’m always open to collaborating on interesting projects and contributing to meaningful software initiatives.<br>
+
 
 
 ## 🌐 Socials:
